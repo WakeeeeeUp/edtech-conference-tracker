@@ -34,3 +34,12 @@ Most dates are based on past patterns. Dates will be updated once information is
 - **Meeting Time & Location**: Not known yet, possibly in June or July 2026
 - **Link**: [https://iaied.org/news](https://iaied.org/news)
 
+## ACM conferences
+### CSCW (ACM Conference on Computer-Supported Cooperative Work and Social Computing)
+- **2026 Submission Cycle**: Submission deadline: May 14, 2025 **PAST**
+- **Meeting Time & Location**: USA (city TBD), October
+- **Link**: [https://cscw.acm.org/2026/papers.html](https://cscw.acm.org/2026/papers.html)
+
+### SIGGRAPH
+- **2026 Submission cycles**: submissions historically due by Dec 31, 2025 for educational papers
+- **Meeting Time & Location**: July 19–23, 2026, Los Angeles, California & Virtual
