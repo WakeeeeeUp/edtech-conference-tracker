@@ -9,6 +9,11 @@ Most dates are based on past patterns. Dates will be updated once information is
 - **Link**: [2026.isls.org](https://2026.isls.org)
 - **Last year timeline reference**: [https://2025.isls.org/submitting-to-cscl-conference/](https://2025.isls.org/submitting-to-cscl-conference/)
 
+### AERA Annual Meeting (American Educational Research Association)
+- **2026 Submission Cycle**: Deadline for Submissions: August 1 2025, PAST
+- **Meeting Time & Location**: April 8–12, Los Angeles, California
+- **Link**: [Call for papers](https://www.aera.net/Events-Meetings/Annual-Meeting/2026-Annual-Meeting-Call-for-Paper-and-Session-Submissions/mid/55159/dnnprintmode/true?ContainerSrc=%5BG%5DContainers%2F_default%2FNo+Container&SkinSrc=%5BG%5DSkins%2F_default%2FNo+Skin&utm_source=chatgpt.com)
+
 ### AECT (Association for Educational Communications & Technology International Convention)
 - **2026 Submission Cycle**: likely call for proposals at the end of 2025, deadline around mid-February 2026
 - **Notification**: 
@@ -22,3 +27,10 @@ Most dates are based on past patterns. Dates will be updated once information is
 - **Meeting Time & Location**: March 23-27, Philadelphia, US
 - **Focus**: Integration of information technology into teacher education; theoretical, research, applications, innovative projects
 - **Link**: [https://site.aace.org/conf/](https://site.aace.org/conf/) [Timeline](https://site.aace.org/about/site-2026-philadelphia-march-23-27/rates-deadlines-visas/#deadlines)
+
+
+### AIED (The International Artificial Intelligence in Education)
+- **2026 Submission Cycle**: Submissions open: late Dec 2025, Full/short paper deadline: mid‑February 2026 AOE, Notifications: late March/early April 2026
+- **Meeting Time & Location**: Not known yet, possibly in June or July 2026
+- **Link**: [https://iaied.org/news](https://iaied.org/news)
+
