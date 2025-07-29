@@ -5,9 +5,9 @@ Most dates are based on past patterns. Dates will be updated once information is
 - **Notification**: Feb 1, 2026
 - **Focus**: Collaborative learning, technology, theory+practice
 - **Acceptance Rate**: ~35%
-- **Meeting time & Location: June 15–19, 2026, Irvine, California
+- **Meeting Time & Location**: June 15–19, 2026, Irvine, California
 - **Link**: [2026.isls.org](https://2026.isls.org)
-- Last year timeline reference: [https://2025.isls.org/submitting-to-cscl-conference/](https://2025.isls.org/submitting-to-cscl-conference/)
+- **Last year timeline reference**: [https://2025.isls.org/submitting-to-cscl-conference/](https://2025.isls.org/submitting-to-cscl-conference/)
 
 ### AECT (Association for Educational Communications & Technology International Convention)
 - **2026 Submission Cycle**: likely call for proposals at the end of 2025, deadline around mid-February 2026
@@ -16,3 +16,9 @@ Most dates are based on past patterns. Dates will be updated once information is
 - **Acceptance Rate**: 
 - **Meeting time & Location: conventionally fall 2026. In Chicago, Illinois
 - **Link**: www.aect.org
+
+### SITE　(Society for Information Technology & Teacher Education (International forum))
+- **2026 Submission Cycle**: Call for Proposals Due: November 17
+- **Meeting Time & Location**: March 23-27, Philadelphia, US
+- **Focus**: Integration of information technology into teacher education; theoretical, research, applications, innovative projects
+- **Link**: [https://site.aace.org/conf/](https://site.aace.org/conf/) [Timeline](https://site.aace.org/about/site-2026-philadelphia-march-23-27/rates-deadlines-visas/#deadlines)
