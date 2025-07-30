@@ -43,3 +43,6 @@ Most dates are based on past patterns. Dates will be updated once information is
 ### SIGGRAPH
 - **2026 Submission cycles**: submissions historically due by Dec 31, 2025 for educational papers
 - **Meeting Time & Location**: July 19–23, 2026, Los Angeles, California & Virtual
+
+| Name | 2026 Submission Cycles | Notes | Approx. Acceptance Rate |
+| ----  | ---------------------- | ---- | ------------------------ |
