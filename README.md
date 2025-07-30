@@ -45,7 +45,7 @@ Most dates are based on past patterns. Dates will be updated once information is
 - **Meeting Time & Location**: July 19–23, 2026, Los Angeles, California & Virtual
 
 | Name | 2026 Submission Cycles | Date & Location | Link |
-| --- | --- | --- | --- | --- |
+| ---- | ---------------------- | --------------- | ---- |
 | CSCL (Computer-Supported Collaborative Learning) | likely call for papers Sep-Nov, early submission deadline: Oct 5, extended deadline(if any): November 27 | June 15–19, 2026, Irvine, California | [2026.isls.org](https://2026.isls.org) [Last year timeline reference](https://2025.isls.org/submitting-to-cscl-conference/) |
 
 | ICLS (International Conference of the Learning Sciences) |  likely call for papers Sep-Nov, early submission deadline: Oct 5, extended deadline(if any): November 27 | June 15–19, 2026, Irvine, California | [2026.isls.org](https://2026.isls.org) [Last year timeline reference](https://2025.isls.org/submitting-to-cscl-conference/) |
